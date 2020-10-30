@@ -1,0 +1,13 @@
+img {
+    width: 80px;
+    margin-left: 10px;
+}
+
+.submitButton {
+    border: none;
+    background-color: #d69262;
+}
+
+#cogs {
+    color: #555;
+}

@@ -7,6 +7,8 @@ import {
 import Header from './Components/header/Header'
 import Home from './Components/home/Home'
 import Admin from './Components/admin/Admin'
+import Footer from './Components/footer/Footer'
+import Qui from './Components/qui/Qui'
 
 function App() {
   return (
@@ -20,7 +22,11 @@ function App() {
           <Route path="/admin">
             <Admin />
           </Route>
+          <Route path="/qui">
+            <Qui />
+          </Route>
         </Switch>
+        <Footer />
       </div>
     </Router>
   );

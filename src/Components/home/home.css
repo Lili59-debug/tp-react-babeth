@@ -1,0 +1,48 @@
+main {
+    margin-top: 30px;
+}
+
+.rubrique {
+    margin-bottom: 40px;
+}
+
+.blocRayon {
+    margin: 5px;
+    min-width: 100px;
+}
+
+.blocRayon > a {
+    color: #555;
+}
+
+.imageRayon {
+    width: 150px;
+}
+
+.nomRayon {
+    text-align: center;
+}
+
+#plus {
+    color: #d69262;
+}
+
+#adherer {
+    color: #555;
+    text-decoration: underline;
+}
+
+h4 {
+    text-align: center;
+}
+
+.submitButton {
+    border: none;
+    background-color: #d69262;
+}
+
+Form {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
